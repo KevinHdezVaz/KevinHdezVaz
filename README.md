@@ -1,6 +1,6 @@
 - 👋 Hola, soy @KevinHdezVaz.
 - 👀 Joven apasionado de las nuevas tecnologias moviles.
-- 🌱 Siempre aprendiendo cosas nuevas a diario, enfocado 100% a lo autodidacta.
+- 🌱 Siempre aprendiendo cosas nuevas a diario, enfocado 100% a lo autodidacta y estudios universitarios
  
 
 <!---
