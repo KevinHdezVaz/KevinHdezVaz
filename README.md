@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hola, soy @KevinHdezVaz.<br>👀 Joven apasionado de las nuevas tecnologías móviles y web. (Kotlin, Java, Flutter)<br>🌱 Siempre aprendiendo cosas nuevas a diario, enfocado 100% en lo autodidacta.<br>✨"Dentro de veinte años estarás más decepcionado por las cosas que no hiciste que por las que hiciste."
+<br>👋 Hi, I'm @KevinHdezVaz.<br>👀 A young enthusiast of new mobile and web technologies. (Kotlin, Java, Flutter)<br>🌱 Always learning new things daily, 100% focused on being self-taught.<br>✨"In twenty years, you'll be more disappointed by the things you didn't do than by the ones you did."
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kevin Hernandez Vazquez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KevinHVaz) 
